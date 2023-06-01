@@ -19,5 +19,5 @@ https://s3-eu-west-1.amazonaws.com/yc-rdata/yoochoose-data.7z
 ## command
 -preprocessing_data.py
 
-My_codes_for_training_model.ipynb
+-My_codes_for_training_model.ipynb
 
