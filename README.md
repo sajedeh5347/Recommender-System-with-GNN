@@ -9,6 +9,6 @@ Also, by using this function in the MGNN_SPred algorithm, in addition to improvi
 https://s3-eu-west-1.amazonaws.com/yc-rdata/yoochoose-data.7z
 
 # Support
--Python version: 
+-Python version: 3.8.16
 
--tensorflow version:
+-tensorflow version:2.10.0
