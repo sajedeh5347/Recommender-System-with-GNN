@@ -1,5 +1,5 @@
 # Recommender-System-with-GNN
-These codes are related to my thesis, which we achieved significant performance by slightly changing the codes of the reference article.
+These codes are related to my thesis, which we achieved significant performance by slightly changing the codes of the reference article.[https://github.com/Autumn945/MGNN-SPred]
 
 The proposed change in the thesis has been applied using the star_GNN function in the model of the reference article. In fact, by adding this function, the performance of the model has been improved and the fundamental change of the codes has been in this part.
 
